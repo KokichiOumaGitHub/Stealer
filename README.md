@@ -16,8 +16,8 @@ add to folder file config.py and write there next param:
 # Build
 To build this app first you should install pyinstaller
 
->>> pip install pyinstaller
+  pip install pyinstaller
 
 Second you should run this command:
 
->>> pyinstaller -w -F -i path/to/icon application.py
+  pyinstaller -w -F -i path/to/icon application.py
