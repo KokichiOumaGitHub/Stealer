@@ -3,7 +3,6 @@ App can steals other file from USB drive
 
 
 # Config
-add to folder file config.py and write there next param:
 
 - fromaddr = your email
 - password = your password
